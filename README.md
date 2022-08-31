@@ -2,6 +2,8 @@
 - 👀 Estudando JAVA e C.
 - 🌱 Cursando Ciência da Computação na UTFPR
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauefulgencio)](https://github.com/kauefulgencio/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/kauefulgencio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauefulgencio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauefulgencio&layout=compact&langs_count=7&theme=dracula"/>
+</div>
