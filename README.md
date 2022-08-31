@@ -1,0 +1,3 @@
+- 👋 Olá, eu sou o @KaueFulgencio
+- 👀 Estou interessado em exibir os meus projetos, sendo eles realizados em JAVA e C.
+- 🌱 Cursando Ciência da Computação na UTFPR
