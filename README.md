@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou o @KaueFulgencio
-- 👀 Estudando JAVA e C.
+- 👀 Estudando JAVA e C#.
 - 🌱 Cursando Ciência da Computação na UTFPR
 
 <div align="center">
