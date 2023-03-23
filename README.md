@@ -4,7 +4,7 @@
 
 
 - 👋 Olá, eu sou o @KaueFulgencio
-- 👀 Estudando C#.
+- 👀 Estudando Desenvolvimento Web.
 - 🌱 Cursando Ciência da Computação na UTFPR
 
 
